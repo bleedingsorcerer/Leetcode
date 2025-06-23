@@ -6,11 +6,6 @@ class Solution {
         while (temp > 0) {
             int lastDigit = temp % 10;
 
-            // Check for overflow before updating reversedNum
-            if (reversedNum > (Integer.MAX_VALUE - lastDigit) / 10) {
-                return 0; // Overflow detected
-            }
-
             reversedNum = reversedNum * 10 + lastDigit;
             temp /= 10;
         }
