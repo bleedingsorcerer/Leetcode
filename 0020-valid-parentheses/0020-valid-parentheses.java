@@ -7,17 +7,17 @@ class Solution {
             if(ch =='(' || ch == '[' || ch == '{'){
                 stk.push(ch);
             }else{
+                
                 if(stk.isEmpty()){
                     return false;
-                }else{
-                    if((stk.peek() == '(' && ch == ')')
-                    || (stk.peek() == '[' && ch == ']')
-                    || (stk.peek() == '{' && ch == '}')){
-                        stk.pop();
-                    } else{
-                        return false;
-                    }
-                    
+                }
+
+                if((stk.peek() == '(' && ch == ')')
+                || (stk.peek() == '[' && ch == ']')
+                || (stk.peek() == '{' && ch == '}')){
+                    stk.pop();
+                } else{
+                    return false;
                 }
             }
         }
