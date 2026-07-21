@@ -7,6 +7,7 @@ This repository contains solution of Leetcode and GfG problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/bleedingsorcerer/Leetcode/tree/main/0595-big-countries/) | Easy |
+| [1068-product-sales-analysis-i](https://github.com/bleedingsorcerer/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/bleedingsorcerer/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bleedingsorcerer/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/bleedingsorcerer/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
