@@ -8,6 +8,7 @@ This repository contains solution of Leetcode and GfG problems
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/bleedingsorcerer/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/bleedingsorcerer/Leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/bleedingsorcerer/Leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bleedingsorcerer/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/bleedingsorcerer/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/bleedingsorcerer/Leetcode/tree/main/0595-big-countries/) | Easy |
